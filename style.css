@@ -91,11 +91,35 @@ section {
 }
 
 section h2 {
+  
+  /*
+
+  Default Color
+
+  */
+
+  
   color: #333;
+  
+
+  /*
+
+  color: #4A90E2;
+
+  */
+
+
+
   font-size: 24px;
   margin-bottom: 15px;
+  
+  /*
   border-left: 5px solid #4A90E2;
+  */
+  
   padding-left: 10px;
+
+
 }
 
 section p {
